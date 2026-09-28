@@ -1,0 +1,81 @@
+RISK REGISTER
+Arkansas Creative Services
+
+Risk 1: Phishing Attack
+Asset: Employee Accounts
+Threat: Attacker sends a fraudulent email to an employee.
+Likelihood: High
+Impact: High
+Risk Level: High
+
+Controls:
+- Security awareness training
+- Multi-factor authentication
+- Email filtering
+- Phishing simulations
+
+Risk 2: Ransomware
+Asset: File Server
+Threat: Malware encrypts company files.
+Likelihood: Medium
+Impact: High
+Risk Level: High
+
+Controls:
+- Regular backups
+- Endpoint protection
+- Least privilege
+- Patch management
+- Network segmentation
+
+Risk 3: Weak Passwords
+Asset: Employee Accounts
+Threat: Attacker guesses or cracks employee passwords.
+Likelihood: Medium
+Impact: High
+Risk Level: High
+
+Controls:
+- Strong password requirements
+- Multi-factor authentication
+- Account lockout
+- Password manager
+
+Risk 4: Unauthorized Access
+Asset: File Server
+Threat: Employee or attacker accesses files without authorization.
+Likelihood: Medium
+Impact: High
+Risk Level: High
+
+Controls:
+- Role-based access control
+- Least privilege
+- Access reviews
+- File permissions
+
+Risk 5: Lost or Stolen Laptop
+Asset: Employee Laptop
+Threat: Physical loss exposes company information.
+Likelihood: Medium
+Impact: High
+Risk Level: High
+
+Controls:
+- Full-disk encryption
+- Strong authentication
+- Remote device management
+- Automatic screen locking
+
+Risk 6: Unpatched Software
+Asset: Company Computers
+Threat: Attackers exploit known vulnerabilities.
+Likelihood: Medium
+Impact: High
+Risk Level: High
+
+Controls:
+- Patch management
+- Vulnerability scanning
+- Software inventory
+- Endpoint monitoring

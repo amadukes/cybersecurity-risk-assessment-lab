@@ -1,0 +1,67 @@
+INCIDENT RESPONSE PLAN
+Arkansas Creative Services
+
+SCENARIO
+
+An employee reports receiving a suspicious email containing an
+attachment. The employee opened the attachment before realizing
+that the message may have been malicious.
+
+1. IDENTIFICATION
+
+The security team receives the employee's report and begins
+investigating the email.
+
+The team documents:
+
+- Sender information
+- Email subject
+- Attachment name
+- Time the email was received
+- User who opened the attachment
+- Computer involved
+
+2. CONTAINMENT
+
+The affected computer is disconnected from the network to reduce
+the possibility of the threat spreading to other systems.
+
+The employee is instructed not to delete files or attempt to
+remove the suspected malware.
+
+3. ERADICATION
+
+The security team investigates the affected computer for malicious
+software.
+
+Identified malware is removed and the system is checked for
+additional signs of compromise.
+
+4. RECOVERY
+
+The affected computer is restored to a known secure state.
+
+Security updates are installed and the system is monitored for
+additional suspicious activity.
+
+The employee's credentials may be reset if there is evidence that
+they were compromised.
+
+5. LESSONS LEARNED
+
+After the incident, the organization reviews what happened and
+identifies improvements.
+
+Possible improvements include:
+
+- Additional employee security awareness training
+- Improved email filtering
+- Multi-factor authentication
+- Improved endpoint protection
+- Better reporting procedures
+- Additional monitoring
+
+6. DOCUMENTATION
+
+All actions taken during the incident should be documented so the
+organization can review the incident and improve future response.

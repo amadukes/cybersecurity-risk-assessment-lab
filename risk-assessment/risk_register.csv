@@ -1,0 +1,7 @@
+Risk,Asset,Likelihood,Impact,Risk Level,Recommended Control
+Phishing,Employee Accounts,High,High,High,MFA and Security Awareness Training
+Ransomware,File Server,Medium,High,High,Backups and Endpoint Protection
+Weak Passwords,Employee Accounts,Medium,High,High,MFA and Strong Password Requirements
+Unauthorized Access,File Server,Medium,High,High,Least Privilege and Access Reviews
+Lost Laptop,Employee Laptop,Medium,High,High,Full-Disk Encryption
+Unpatched Software,Company Computers,Medium,High,High,Patch Management

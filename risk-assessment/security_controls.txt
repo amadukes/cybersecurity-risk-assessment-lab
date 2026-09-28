@@ -1,0 +1,94 @@
+SECURITY CONTROLS MATRIX
+Arkansas Creative Services
+
+RISK: PHISHING
+
+Threat:
+Employees receive malicious emails.
+
+Recommended Controls:
+- Security awareness training
+- Email filtering
+- Multi-factor authentication
+- Phishing simulations
+
+Purpose:
+Reduce the likelihood of successful phishing attacks and limit
+damage if an employee's credentials are compromised.
+
+
+RISK: RANSOMWARE
+
+Threat:
+Malware encrypts company files.
+
+Recommended Controls:
+- Regular backups
+- Endpoint protection
+- Patch management
+- Least privilege
+- Network segmentation
+
+Purpose:
+Reduce the likelihood of infection and improve recovery after
+a ransomware incident.
+
+
+RISK: WEAK PASSWORDS
+
+Threat:
+Attackers obtain access by guessing or cracking passwords.
+
+Recommended Controls:
+- Strong password requirements
+- Multi-factor authentication
+- Account lockout
+- Password manager
+
+Purpose:
+Make unauthorized account access more difficult.
+
+
+RISK: UNAUTHORIZED ACCESS
+
+Threat:
+Users access information they do not need for their job.
+
+Recommended Controls:
+- Least privilege
+- Role-based access control
+- Access reviews
+- File permissions
+
+Purpose:
+Limit access to sensitive information.
+
+
+RISK: LOST OR STOLEN LAPTOP
+
+Threat:
+A laptop containing company information is lost or stolen.
+
+Recommended Controls:
+- Full-disk encryption
+- Strong authentication
+- Automatic screen locking
+- Remote device management
+
+Purpose:
+Reduce the possibility of sensitive information being exposed.
+
+
+RISK: UNPATCHED SOFTWARE
+
+Threat:
+Attackers exploit known vulnerabilities in outdated software.
+
+Recommended Controls:
+- Patch management
+- Vulnerability scanning
+- Software inventory
+- Endpoint monitoring
+
+Purpose:
+Reduce exposure to known software vulnerabilities.

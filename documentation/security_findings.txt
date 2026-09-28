@@ -1,0 +1,68 @@
+SECURITY FINDINGS REPORT
+Arkansas Creative Services
+
+1. PURPOSE
+
+The purpose of this assessment was to identify important
+organizational assets, evaluate cybersecurity risks, and identify
+security controls that could reduce those risks.
+
+2. ASSET REVIEW
+
+The assessment identified employee laptops, employee accounts,
+file storage, email, the company website, the Wi-Fi network, and
+backup systems as important organizational assets.
+
+3. LINUX SECURITY AUDIT
+
+A Linux security audit was performed on the laboratory system.
+The audit collected information about the hostname, current user,
+operating system, IP address, network connections, logged-in users,
+disk usage, memory usage, and recent login activity.
+
+4. NETWORK ASSESSMENT
+
+Nmap was used to scan the authorized laboratory system at
+127.0.0.1 (localhost).
+
+The scan checked the 1,000 most common TCP ports.
+
+The host was reachable, but all 1,000 scanned TCP ports were
+reported as closed.
+
+5. SECURITY INTERPRETATION
+
+No open TCP services were identified during the scan. This means
+that Nmap did not identify a TCP service listening on any of the
+1,000 scanned ports.
+
+A system with unnecessary open services could have a larger
+network attack surface. Regular network scanning can help
+identify unexpected services.
+
+6. KEY RISKS
+
+The major organizational risks identified during the assessment
+include phishing, ransomware, weak authentication, unauthorized
+access, lost or stolen devices, and unpatched software.
+
+7. RECOMMENDATIONS
+
+Recommended security controls include:
+
+- Multi-factor authentication
+- Strong password requirements
+- Security awareness training
+- Regular backups
+- Least-privilege access
+- Patch management
+- Endpoint protection
+- Access reviews
+- Network monitoring
+- Regular vulnerability scanning
+
+8. CONCLUSION
+
+The assessment demonstrates how technical security information can
+be combined with risk management and security controls to identify
+and reduce cybersecurity risks.

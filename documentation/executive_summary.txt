@@ -1,0 +1,29 @@
+EXECUTIVE SUMMARY
+
+A cybersecurity assessment was performed for Arkansas Creative
+Services to identify important organizational assets, cybersecurity
+risks, and recommended security controls.
+
+The assessment identified employee laptops, employee accounts,
+file storage, email, the company website, Wi-Fi, and backup systems
+as important organizational assets.
+
+Several significant risks were identified, including phishing,
+ransomware, weak authentication, unauthorized access, lost or
+stolen devices, and unpatched software.
+
+A Linux security audit was performed on a laboratory system to
+collect system and network information.
+
+An authorized Nmap scan was also performed against the local
+laboratory system. The scan checked the 1,000 most common TCP
+ports. The host was reachable, but all 1,000 scanned TCP ports
+were closed.
+
+Recommended security controls include multi-factor authentication,
+security awareness training, least privilege, patch management,
+endpoint protection, regular backups, access reviews, and regular
+network scanning.
+
+The assessment demonstrates how technical security information
+can support organizational risk management and security decisions.

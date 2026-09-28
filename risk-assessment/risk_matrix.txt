@@ -1,0 +1,13 @@
+RISK MATRIX
+
+                 IMPACT
+             Low   Medium   High
+
+LIKELIHOOD
+Low           Low    Low     Medium
+
+Medium        Low   Medium   High
+
+High        Medium   High    Critical
+
+

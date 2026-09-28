@@ -1,0 +1,39 @@
+ASSET INVETORY
+Arkansas Creative Services
+
+
+1. Employee Laptops
+   Purpose: Used by employees for daily work.
+   Data: Company documents, customer information, credentials.
+   Importance: High
+
+2. Employee Accounts
+   Purpose: Provide access to company systems.
+   Data: Usernames, passwords, authentication information.
+   Importance: High
+
+3. File Server
+   Purpose: Stores company and customer files.
+   Data: Design files, contracts, business documents.
+   Importance: High
+
+4. Email System
+   Purpose: Internal and external communication.
+   Data: Business communications and attachments.
+   Importance: High
+
+5. Website
+   Purpose: Provides information about the company and services.
+   Data: Public company information and contact information.
+   Importance: Medium
+
+6. Wi-Fi Network
+   Purpose: Provides network access to employees.
+   Data: Network traffic and connected devices.
+   Importance: High
+
+7. Backup System
+   Purpose: Protects company information from data loss.
+   Data: Copies of important company files.
+   Importance: High
+
